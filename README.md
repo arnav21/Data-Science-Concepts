@@ -1,2 +1,9 @@
 # Data-Science-Concepts
-This repository consists of various data science concepts and explainations which will be a great resource for beginners.
+
+**Hi** Everyone!!
+
+This repository is created with a motive to have a comprehensive learning material for all the data science enthusiasts. The material can be in the form of blogs, code snippets, videos, articles etc.
+
+The following content needs to be added currently:
+
+1. What is Data Analysis?
